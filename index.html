@@ -8,7 +8,6 @@
     <style>
         table {
             border-collapse: collapse;
-            border: 1px solid #000
         }
 
         td {
@@ -37,11 +36,32 @@
             border: 0
         }
 
+        img {            
+            width: 350px;
+            height: 342px;
+            margin-left: 5%;
+            margin-top: -18px;
+        }
+
+        body {
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            background: url(./tela_azul.png);
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
     </style>
 </head>
-<body style="background-color: #000;">
-    <div style="display: flex; justify-content: center; margin-top: 20%" id="fireCanvas">
-
+<body>
+    <div>
+        <div id="fireCanvas">
+        </div>
+    </div>
+    <div>
+        <img src="ond_computer.png" />
     </div>
     <script src="./index.js"></script>
 </body>

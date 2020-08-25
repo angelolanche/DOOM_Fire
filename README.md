@@ -84,7 +84,9 @@ Este projeto está sobe a licença MIT.
 Este foi um projeto desenvolvido para praticar o básico da programação front-end Web.
 [Entre em contato!](https://www.linkedin.com/in/AngeloLanch/)
 
-[yarn]: https://yarnpkg.com/
+[html]: https://html.spec.whatwg.org/multipage/
+[css]: https://www.w3.org/Style/CSS/specs.en.html
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [vscode]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [license]: https://opensource.org/licenses/MIT

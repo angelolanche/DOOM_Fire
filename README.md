@@ -1,6 +1,6 @@
 # Doom Fire
 <h1 align="center">
-    <img alt="doomBanner" title="#doomBanner" src="./assets/doomBanner.jpg" />
+    <img alt="doomBanner" title="#doomBanner" src="./assets/doomBanner.jpg" width="500px" />
     <h4>O mais famoso fogo pixelado, diretamente das profundesas dos infernos de DOOM</h4>
 </h1>
 
@@ -33,7 +33,7 @@ A temática foi escolhida por mim para relembrar meus tempos de garoto, foi a do
 ### Mobile Screens
 
 <p align="center">
-  <img alt="DOOM_Fire" title="#DOOM_Fire" src="./assets/rodando.png" width="100px">
+  <img alt="DOOM_Fire" title="#DOOM_Fire" src="./assets/rodando.png" width="500px">
 </p>
 
 ## 🛠 Tecnologias

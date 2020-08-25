@@ -1,7 +1,7 @@
 # Doom Fire
 <h1 align="center">
     <img alt="doomBanner" title="#doomBanner" src="./assets/doomBanner.jpg" width="500px" />
-    <h4>O mais famoso fogo pixelado, diretamente das profundesas dos infernos de DOOM</h4>
+    <h4 style="text-align: center; text-transform: uppercase">O mais famoso fogo pixelado, diretamente das profundesas dos infernos de DOOM</h4>
 </h1>
 
 <h4 align="center"> 

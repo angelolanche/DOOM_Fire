@@ -30,7 +30,7 @@ Ao rodar a aplicação, todo o estilo anos 90 sera invocado diretamente na sua t
 
 A temática foi escolhida por mim para relembrar meus tempos de garoto, foi a dos antigos PCs de tubo, em que eu sofria no Windows97
 
-### Mobile Screens
+### Screens
 
 <p align="center">
   <img alt="DOOM_Fire" title="#DOOM_Fire" src="./assets/rodando.png" width="500px">
